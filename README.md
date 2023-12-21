@@ -55,7 +55,8 @@ Embrace the significance of variables in Python! They form the foundation for ef
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/Sankhdeep/Python_Basics/assets/119426983/7a04f68e-2a61-4414-a573-ba9e09ce129e)
+![Your paragraph text](https://github.com/Sankhdeep/Python_Basics/assets/119426983/0a734e21-d568-4776-b253-66d52f50da15)
+
 
 
 **Day 3**
