@@ -95,5 +95,33 @@ These data types empower Python developers to handle a wide array of information
 
 Remember, each type has its strengths, and understanding them is crucial for effective programming. So, whether you're a Python beginner or a seasoned coder, keep exploring and mastering these data types to unleash the full potential of Python! 
 
-Feel free to customize and share this post as you see fit! Happy coding!
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Your paragraph text (1)](https://github.com/Sankhdeep/Python_Basics/assets/119426983/970904a3-dde5-4bda-a039-7cc883a26748)
+
+**Day 4**
+
+Day 4: Mastering the Art of Type Casting in Python!
+Embark on the thrilling journey of Type Casting in Python! 
+
+**Type Casting Defined:** Changing a data type into another—be it by Python itself (implicit) or at the user's command (explicit).
+
+
+
+**Implicit Type Casting:** Python works its magic behind the scenes! 
+
+ Example:
+ a = int(input("Enter the number: "))
+
+
+
+**Explicit Type Casting:** Take control! Convert from lower to higher data types.
+
+ Example:
+ num1 = 10 -- int
+ num2 = 10.5 -- float
+ result = float(num1) + num2 -- result is also float
+ print(result)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
